@@ -1,0 +1,20 @@
+{
+  "name": "sanity-testing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "get.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@sanity/client": "^2.8.0",
+    "es6-promise": "^4.2.8"
+  },
+  "devDependencies": {
+    "webpack": "^5.37.0",
+    "webpack-cli": "^4.7.0"
+  }
+}
